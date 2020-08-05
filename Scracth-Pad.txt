@@ -1,0 +1,30 @@
+Scracth Pad
+
+// creating react app 
+npx create-react-app my-app
+cd my-app
+npm start
+
+// For starting Vue project
+npm run serve 
+
+// Fast typing 
+Emmet 
+
+//Angular 
+
+npm install -g @angular/cli
+ng new my-dream-app
+cd my-dream-app
+ng serve
+
+// Showing angular version
+npm list -global 
+npm list -global --depth 0 
+
+// running unit test in python 
+python -m unittest test_calc.py
+
+// this is a change for Git 
+
+
